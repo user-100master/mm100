@@ -1,0 +1,279 @@
+<data>
+    <items>
+<show_movies name2="" name="" hidetitle="on" image="MAIN-MOVIES" fcolor="16777215"   bcolor="14615849"/>
+<show_pictures name2="" name="" hidetitle="on" image="MAIN-PICTURE" fcolor="16777215"   bcolor="12304142"/>
+<show_music name2="" name="" hidetitle="on" image="MAIN-MUSIC" fcolor="16777215"   bcolor="15966232"/>
+<show_files name2="" name="" hidetitle="on" image="MAIN-FILES" fcolor="16777215"   bcolor="7758421"/>
+<main_menue2 name2="" name="" hidetitle="off"   fcolor="16733986" tcolor="8847360" bcolor="12312315"/>
+<Main_E2_menu name2="" name="&#xf031;" hidetitle="off"   fcolor="42128" bcolor="8878441"/>
+<Setup_launcher name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="2503224"/>
+<Weather name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="42128"/>
+<Plugins_Extensions_FootOnSat-1 name2="" name="" hidetitle="off" image="backmouv" fcolor="16777215" bcolor="4854924"/>
+<Plugins_Extensions_ArabicSavior-1 name2="" name="&#xf01f;" hidetitle="on" image="arabic" fcolor="16777215" bcolor="3817023"/>
+<add_remove name2="" name="" hidetitle="off"   fcolor="328965" tcolor="328965" bcolor="12364452"/>
+<Plugins_Extensions_AJPan-1 name2="" name="" hidetitle="off" image="white" fcolor="11342935" bcolor="11583173"/>
+<Plugins_Extensions_OpenWebif-1 name2="" name="&#xf26b;" hidetitle="off" image="uty" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_IPaudioPro-1 name2="" name="" hidetitle="off" image="7red" fcolor="16777215" bcolor="11020347"/>
+<Plugins_Extensions_OAWeather-function_main name2="" name="&#xf01f;" hidetitle="on" image="weather2" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_DreamSat-1 name2="" name="&#xf00f;" hidetitle="off" image="DreamSatPanel" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_CacheFlush-1 name2="" name="&#xf0fb;" hidetitle="off" image="backgreen" fcolor="16777215" bcolor="3369246"/>
+<Plugins_Extensions_PlutoTV-function_system name2="" name="" hidetitle="on" image="plutotv" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_MediaPlayer2-1 name2="" name="" hidetitle="on" image="mp" fcolor="16777215" bcolor="3817023"/>
+<show_weather name2="" name="" hidetitle="on" image="MAIN-WEATHER" fcolor="16777215" tcolor="16777215" bcolor="47316"/>
+<Plugins_Extensions_SupTVoD-function_Start_iptv_palyer name2="" name="&#xe7fe;" hidetitle="off" image="SupVod" fcolor="328965" bcolor="9489145"/>
+<Plugins_Extensions_NovalerTV-function_main name2="" name="&#xe7fe;" hidetitle="on" image="NovalerTV" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_MediaScanner-1 name2="" name="&#xf002;" hidetitle="off" image="7mouv" fcolor="16777215" bcolor="4854924"/>
+<Plugins_Extensions_FNCkeyUpdater-1 name2="" name="&#xf006;" hidetitle="off" image="7yellow" fcolor="16777215" bcolor="16498733"/>
+<Plugins_Extensions_Beengo-function_main name2="" name="" hidetitle="on" image="beengo" fcolor="2503224" bcolor="328965"/>
+<Plugins_Extensions_MultiStalker-function_main name2="" name="" hidetitle="off" image="mstalker" fcolor="16777215" bcolor="1713022"/>
+<Plugins_Extensions_RakutenTV-function_system name2="" name="&#xe7fe;" hidetitle="on" image="rakutentv" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_NovalerStore-function_main name2="" name="&#xe7fe;" hidetitle="on" image="novalerStore" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_NOVACAMSUPTVPremium-function_main name2="" name="&#xe7fe;" hidetitle="on" image="NOVACAM_-_SUPTV_Activator" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_NOVACAMSUPTVSupreme-1 name2="" name="&#xf03e;" hidetitle="off" image="nimage" fcolor="24676" bcolor="11583173"/>
+<Plugins_Extensions_SubsSupport-2 name2="" name="&#xf00f;" hidetitle="off" image="subs" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_SubsSupport-1 name2="" name="&#xf075;" hidetitle="off"   fcolor="16777215" bcolor="16733986"/>
+<Plugins_Extensions_SubsSupport-function_openSubtitlesSearch name2="" name="&#xe7fe;" hidetitle="off" image="subsupportDl" fcolor="16777215" bcolor="6111287"/>
+<Plugins_Extensions_SubsSupport-function_openSubtitlesPlayer name2="" name="&#xe7fe;" hidetitle="off" image="subsupport" fcolor="16777215" bcolor="4854924"/>
+<Plugins_Extensions_SubsSupport-function_openSubsSupportSettings name2="" name="" hidetitle="off" image="subsupportSetting" fcolor="16777215" bcolor="7420263"/>
+<Plugins_Extensions_ArabicSavior-function_main name2="" name="" hidetitle="on" image="arabic" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_MediaPlayer2-function_main name2="" name="&#xeaa6;" hidetitle="off" image="004" fcolor="16498733"   bcolor="37354"/>
+<Plugins_Extensions_DreamSat-cyfunction_main name2="" name="" hidetitle="off" image="bak" fcolor="16775393" bcolor="328965"/>
+<Plugins_Extensions_EPGSearch-function_eventinfo name2="" name="" hidetitle="off"   fcolor="12000284" tcolor="328965" bcolor="16509415"/>
+<Plugins_Extensions_IMDbFNC-cyfunction_eventInfoMenu name2="" name="&#xe7fe;" hidetitle="on" image="imdb" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_MediaScanner-function_main name2="" name="" hidetitle="off"   fcolor="12901642"   bcolor="1132118"/>
+<Plugins_Extensions_YouTube-function_main name2="" name="&#xe7fe;" hidetitle="on" image="MAIN-YTUBE" fcolor="16777215"   bcolor="13959168"/>
+<Plugins_Extensions_CacheFlush-function_main name2="" name="" hidetitle="off"   fcolor="11549802" tcolor="16777215" bcolor="2498628"/>
+<Plugins_Extensions_IPSAT-function_main name2="" name="" hidetitle="off" image="ipToSat3" fcolor="16777215" bcolor="16498733"/>
+<Plugins_Extensions_FootOnSat-function_main name2="" name="&#xf00f;" hidetitle="off" image="footonsat" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_IPAudio-function_main name2="" name="&#xe7fe;" hidetitle="on" image="IPAudio2" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_MultiStalkerPro-cyfunction_main name2="" name="&#xf2df;" hidetitle="off" image="mstalker" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_RakutenTV-function_Download_RakutenTV name2="" name="&#xe7fe;" hidetitle="on" image="rakutentvUpdate" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_EPGSearch-function_seachhistory name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="4153465"/>
+<Plugins_Extensions_FNCkeyUpdater-function_main name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="12216520"/>
+<Plugins_Extensions_DreamCC-function_PurCamdManager name2="" name="&#xe801;" hidetitle="off"   fcolor="16777215" bcolor="7964363"/>
+<Plugins_Extensions_OpenWebif-function_confplug name2="" name="" hidetitle="off"   fcolor="38536" tcolor="3622735" bcolor="12364452"/>
+<Plugins_MultiTransCodingSetup-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="13247357"/>
+<Plugins_Extensions_IPaudioPro-cyfunction_main name2="" name="&#xec66;" hidetitle="off"   fcolor="24676" bcolor="10395294"/>
+<Plugins_Extensions_Zoom-function_main name2="" name="&#xe802;" hidetitle="off"   fcolor="15022389" bcolor="16777215"/>
+<Plugins_Extensions_AJPan- name2="" name="" hidetitle="off" image="ajPanel" fcolor="16509415" tcolor="16777215" bcolor="11342935"/>
+<Plugins_Extensions_suptv-cyfunction_main name2="" name="" hidetitle="on" image="SupTv_Activator" fcolor="1579032" bcolor="16509415"/>
+<Plugins_Extensions_KeyAdder-function_main name2="" name="&#xe87b;" hidetitle="off"   fcolor="2635155"   bcolor="7697781"/>
+<Plugins_Extensions_EstuaryConfig-cyfunction_main name2="" name="" hidetitle="off"   fcolor="12187338" bcolor="1793568"/>
+<Plugins_Extensions_launcher6-function_main name2="" name="" hidetitle="off" image="002" fcolor="16777215"   bcolor="11020347"/>
+<Plugins_Extensions_WeatherPlugin-function_main name2="" name="" hidetitle="on" image="WeatherPlugin" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_KravenHD-function_main name2="" name="&#xeabf;" hidetitle="off"   fcolor="16777215" bcolor="9775272"/>
+<Plugins_Extensions_BitrateFNC-cyfunction_main name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="6422762"/>
+<menuplugins-pManager name2="" name="&#xed0b;" hidetitle="off"   fcolor="16777215" bcolor="5093036"/>
+<menuplugins-imdbfnc name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="13959168"/>
+<menuplugins-radiofnc name2="" name="&#xe98c;" hidetitle="off"   fcolor="16777215" bcolor="2653096"/>
+<menuplugins-filemanagerfnc name2="" name="&#xecbc;" hidetitle="off"   fcolor="16777215" bcolor="16748288"/>
+<menuplugins-wazzupfnc name2="" name="&#xece8;" hidetitle="off"   fcolor="16777215" bcolor="15037299"/>
+<menuplugins-CPU_Control name2="" name="&#xeccf;" hidetitle="off"   fcolor="16777215" bcolor="16776960"/>
+<menuplugins-cam_setup name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="9775272"/>
+<screens-Timers-vv-RecordTimerOverview-vv name2="" name="" hidetitle="off"   fcolor="16717636" tcolor="4342338" bcolor="16777215"/>
+<screens-Timers-vv-PowerTimerOverview-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<screens-SoftcamSetup-vv-SoftcamSetup-vv name2="" name="" hidetitle="off"   fcolor="16777215" tcolor="16777215" bcolor="364698"/>
+<screens-NetworkSetup-vv-NetworkAdapterSelection-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="4342338"/>
+<screens-SkinSelector-vv-SkinSelector-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="4342338"/>
+<screens-VideoMode-vv-VideoSetup-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<screens-ServiceInfo-vv-ServiceInfo-vv name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="6310993"/>
+<screens-Information-vv-ServiceInformation-vv name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="6310993"/>
+<Plugins_Extensions_NovalerStore-cyfunction_main name2="" name="" hidetitle="on" image="novalerStore" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_HistoryZapSelector-function_main name2="" name="&#xe835;" hidetitle="off"   fcolor="16777215" bcolor="2636712"/>
+<Plugins_Extensions_MediaPlayer-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="42990"/>
+<Plugins_Extensions_FileCommander-function_startFromPluginMenu name2="" name="" hidetitle="on" image="File_Commander" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_PicturePlayer-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="9649002"/>
+<Plugins_Extensions_EnhancedMovieCenter-function_pluginOpen name2="" name="&#xe7fe;" hidetitle="on" image="emc_setup" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_IMDb-function_eventinfo name2="" name="" hidetitle="off"   fcolor="16748288" tcolor="328965" bcolor="16775393"/>
+<Plugins_Extensions_IMDb-function_setup name2="" name="" hidetitle="on" image="imdb-setup" fcolor="16777215"   bcolor="14003752"/>
+<Plugins_Extensions_IPTVPlayer-function_main name2="" name="" hidetitle="off" image="iptvPlayer" fcolor="16777215" bcolor="4158417"/>
+<Plugins_Extensions_EnhancedMovieCenter-function_recordingsOpen name2="" name="" hidetitle="off"   fcolor="9489145"   bcolor="38823"/>
+<Plugins_Extensions_AutoTimer-function_eventinfo name2="" name="&#xe881;" hidetitle="off"   fcolor="16777215" bcolor="16739904"/>
+<menuplugins-emc name2="" name="" hidetitle="on" image="EMovieCenter" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_MyMetrixLite-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="98816"/>
+<Plugins_Extensions_ProgrammlistenUpdater-function_main name2="" name="&#xed6e;" hidetitle="off"   fcolor="16777215"   bcolor="6422762"/>
+<Plugins_Extensions_Bitrate-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="86139"/>
+<Plugins_Extensions_Bitrate-function_settings name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="86139"/>
+<Plugins_Extensions_ClearMem-function_main name2="" name="" hidetitle="off"   fcolor="16748288" tcolor="328965" bcolor="6942894"/>
+<Plugins_Extensions_EPGImport-function_extensionsmenu name2="" name="&#xe7fe;" hidetitle="on" image="EPG-Importer" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_SamsungTVPlus-function_system name2="" name="" hidetitle="on" image="samsungTvPlus" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_SamsungTVPlus-function_Download_SamsungTVPlus name2="" name="" hidetitle="on" image="samsungTvUpdate" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_InternetSpeedTest-function_main name2="" name="&#xe7fe;" hidetitle="on" image="netspeedTest" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_EmbyDream-function_main name2="" name="" hidetitle="off" image="embyDream" fcolor="2503224" bcolor="10395294"/>
+<menuplugins-embydream name2="" name="" hidetitle="off" image="embyDream" fcolor="5125166" bcolor="10395294"/>
+<Plugins_Extensions_EmbyDreamServer-function_main name2="" name="" hidetitle="off" image="embyDream" fcolor="328965" bcolor="10395294"/>
+<Plugins_Extensions_Filmon-function_main name2="" name="&#xe7fe;" hidetitle="on" image="filmon" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_EPGImport-function_main name2="" name="" hidetitle="off" image="back04" fcolor="2175009"   bcolor="38536"/>
+<Plugins_Extensions_Chefkoch-function_main name2="" name="&#xe7fe;" hidetitle="on" image="chefkoch" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_IMDb-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="12367912"/>
+<Plugins_Extensions_EPGRefresh-function_forceRefresh name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="26504"/>
+<Plugins_Extensions_EPGSearch-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="12454483"/>
+<Plugins_Extensions_EPGRefresh-function_eventinfo name2="" name="&#xe834;" hidetitle="off"   fcolor="16777215" bcolor="12216520"/>
+<Plugins_Extensions_PlanerFS-function_main name2="" name="&#xe7fe;" hidetitle="off" image="planner" fcolor="16777215" bcolor="6422762"/>
+<Plugins_Extensions_PlanerFS-function_adress name2="" name="" hidetitle="off" image="adressBook" fcolor="328965" bcolor="11514923"/>
+<Plugins_Extensions_PlanerFS-function_uebersicht name2="" name="&#xe7fe;" hidetitle="off" image="events" fcolor="328965" bcolor="11514923"/>
+<Plugins_Extensions_PlanerFS-function_pfs_wecker name2="" name="&#xe882;" hidetitle="off"   fcolor="16777215" bcolor="16747136"/>
+<Plugins_Extensions_PlexDream-function_main name2="" name="&#xe7fe;" hidetitle="on" image="plex2" fcolor="16777215" bcolor="3817023"/>
+<menuplugins-plexdream name2="" name="&#xe7fe;" hidetitle="on" image="plex" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_HDFRadio-function_main name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="12938096"/>
+<Plugins_Extensions_HDFRadio-function_player name2="" name="" hidetitle="off"   fcolor="1713022"   bcolor="47316"/>
+<Plugins_Extensions_TVSpielfilm-function_main name2="" name="" hidetitle="off" image="tvSpielfilm" fcolor="4342338" tcolor="328965" bcolor="16777215"/>
+<Plugins_Extensions_TVSpielfilm-function_mainprime name2="" name="" hidetitle="off" image="tvSpielfilm" fcolor="2503224" tcolor="328965" bcolor="16777215"/>
+<Plugins_Extensions_TVSpielfilm-function_mainlate name2="" name="" hidetitle="off" image="tvSpielfilm" fcolor="2503224" tcolor="328965" bcolor="16777215"/>
+<Plugins_Extensions_TVSpielfilm-function_mainevent name2="" name="" hidetitle="off" image="tvSpielfilm" fcolor="2503224" tcolor="328965" bcolor="16777215"/>
+<Plugins_Extensions_TVSpielfilm-function_mainjetzt name2="" name="" hidetitle="off" image="tvSpielfilm" fcolor="2503224" tcolor="328965" bcolor="16777215"/>
+<Plugins_Extensions_tmdb-function_eventinfo name2="" name="&#xe7fe;" hidetitle="on" image="tmdb" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_TvToM3u-function_Main name2="" name="&#xe7fe;" hidetitle="off" image="m3ufile" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_PictureCenterFS-function_main name2="" name="&#xea46;" hidetitle="off"   fcolor="16777215" bcolor="11020411"/>
+<Plugins_Extensions_HasBahCa-function_mainw name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="4367861"/>
+<Plugins_Extensions_OpenATVstatus-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="1790048"/>
+<Plugins_Extensions_parsatv-function_main name2="" name="&#xe8ca;" hidetitle="off"   fcolor="16777215" bcolor="47316"/>
+<Plugins_Extensions_MerlinMusicPlayer-function_merlinmusicplayerfilelist name2="" name="&#xebf4;" hidetitle="off" image="back010" fcolor="16777215"   bcolor="2635155"/>
+<menuplugins-hdf_radio name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="48340"/>
+<menuplugins-iptv_config name2="" name="&#xe875;" hidetitle="off"   fcolor="16777215" bcolor="15021412"/>
+<Plugins_Extensions_E2Piconizer-function_main name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="9775272"/>
+<Plugins_Extensions_dreamMediathek-function_dreamMediathekMain name2="" name="&#xe820;" hidetitle="off"   fcolor="16777215" bcolor="15092249"/>
+<Plugins_Extensions_WeatherMSN-function_main name2="" name="" hidetitle="off"   fcolor="15092249" tcolor="6111287" bcolor="12364452"/>
+<Plugins_Extensions_Foreca-function_main name2="" name="" hidetitle="off" image="foreca" fcolor="328965" bcolor="16777215"/>
+<Plugins_Extensions_XStreamity-function_main name2="" name="" hidetitle="on" image="XStreamity" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_tvspro-function_main name2="" name="&#xe820;" hidetitle="off"   fcolor="16777215" bcolor="24676"/>
+<Plugins_Extensions_MerlinMusicPlayer-function_main name2="" name="&#xec8a;" hidetitle="off"   fcolor="16777215" bcolor="38823"/>
+<Plugins_Extensions_AutoBouquets-function_maindownloader name2="" name="&#xe950;" hidetitle="off"   fcolor="16777215" bcolor="16498733"/>
+<Plugins_Extensions_AutoBouquets-function_main name2="" name="&#xe911;" hidetitle="off"   fcolor="16777215" bcolor="5580968"/>
+<Plugins_Extensions_DreamExplorer-function_main name2="" name="" hidetitle="off"   fcolor="16777215" bcolor="9064672"/>
+<Plugins_Extensions_FTPBrowser-function_main name2="" name="&#xe8b5;" hidetitle="off"   fcolor="16777215" bcolor="16728193"/>
+<Plugins_Extensions_filmxy-function_main name2="" name="&#xec03;" hidetitle="off"   fcolor="16777215" bcolor="16728193"/>
+<Plugins_Extensions_SearchVod-function_main name2="" name="&#xe81f;" hidetitle="off"   fcolor="14811135" bcolor="9742133"/>
+<Plugins_Extensions_ScriptGoPro-function_main name2="" name="&#xe800;" hidetitle="off"   fcolor="16777215" bcolor="8403278"/>
+<Plugins_Extensions_JediMakerXtream-function_main name2="" name="&#xe81f;" hidetitle="off"   fcolor="16777215" bcolor="10187911"/>
+<Plugins_Extensions_Flashexpander-function_main name2="" name="" hidetitle="off"   fcolor="2955620"   bcolor="14007083"/>
+<Plugins_Extensions_Chromium-function_vod1 name2="" name="&#xe7fe;" hidetitle="on" image="Netflix" fcolor="16773375"   bcolor="3817023"/>
+<Plugins_Extensions_Chromium-function_vod5 name2="" name="&#xe7fe;" hidetitle="on" image="PrimeVideo" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_Chromium-function_vod2 name2="" name="&#xe7fe;" hidetitle="on" image="YoutubeTV" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_Chromium-function_main name2="" name="" hidetitle="off"   fcolor="1973790" tcolor="328965" bcolor="12364452"/>
+<Plugins_Extensions_Chromium-function_setup name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="1650767"/>
+<Plugins_Extensions_Chromium-function_vod4 name2="" name="&#xe7fe;" hidetitle="on" image="Dazn" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_Chromium-function_vod3 name2="" name="" hidetitle="on" image="Disney___" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_IPSAT-cyfunction_main name2="" name="&#xe7fe;" hidetitle="off" image="ipToSat3" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_IPaudioPlus-cyfunction_main name2="" name="&#xed5a;" hidetitle="off"   fcolor="16777215" bcolor="10573429"/>
+<Plugins_Extensions_SupTVoD-cyfunction_Start_iptv_palyer name2="" name="&#xe7fe;" hidetitle="off" image="SupVod" fcolor="16777215" bcolor="3817023"/>
+<Plugins_Extensions_EPGTranslator-function_main name2="" name="" hidetitle="off"   fcolor="15793919" bcolor="11189826"/>
+<Plugins_Extensions_Sofascore-function_main name2="" name="" hidetitle="off"   fcolor="4635130" tcolor="16762368" bcolor="992880"/>
+<Plugins_Extensions_PiconManager-function_main name2="" name="&#xecf3;" hidetitle="off"   fcolor="16777215" bcolor="4431256"/>
+<dtop-openGraphEPG-vv name2="" name="&#xec0d;" hidetitle="off"   fcolor="16777215"   bcolor="9936512"/>
+<dtop-openVerticalEPG-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="12664961"/>
+<dtop-openSingleServiceEPG-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="7697781"/>
+<dtop-openMultiServiceEPG-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="2251897"/>
+<dtop-openEventView-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="14797568"/>
+<dtop-showRadio-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="47061"/>
+<dtop-showTv-vv name2="" name="" hidetitle="off"   fcolor="16775393"   bcolor="11443840"/>
+<dtop-showPiP-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="11514923"/>
+<dtop-audioSelection-vv name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="41472"/>
+<Plugins_Extensions_YahooWeather-function_main name2="" name="" hidetitle="off"   fcolor="16777215" tcolor="12187338" bcolor="12216520"/>
+<Plugins_Extensions_Mosaic-function_main name2="" name="" hidetitle="off"   fcolor="16509415" tcolor="16777215" bcolor="16752256"/>
+<Plugins_Extensions_ArdMediathek-function_main name2="" name="" hidetitle="off" image="ARD-mediateck" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_InfoBarTunerState-function_setup name2="" name="&#xed5d;" hidetitle="off"   fcolor="11020347"   bcolor="2503224"/>
+<Plugins_Extensions_InfoBarTunerState-function_show name2="" name="&#xed5d;" hidetitle="off"   fcolor="13959168"   bcolor="4342338"/>
+<Plugins_Extensions_GoogleMaps-function_start_from_pluginmenu name2="" name="&#xebaf;" hidetitle="off"   fcolor="16717636" tcolor="328965" bcolor="16509415"/>
+<Plugins_Extensions_Sudoku-function_main name2="" name="" hidetitle="on" image="sudoku" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_Podcast-function_main name2="" name="&#xebc5;" hidetitle="off"   fcolor="16777215"   bcolor="161725"/>
+<Plugins_Extensions_Tetris-function_main name2="" name="&#xe7fe;" hidetitle="on" image="tetris" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_EnigmaLight-function_main name2="" name="&#xe7fe;" hidetitle="on" image="enigmalight" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_XCplugin-function_main name2="" name="&#xe7fe;" hidetitle="off" image="xcplugin" fcolor="16777215"   bcolor="161725"/>
+<Plugins_Extensions_eSame-function_main name2="" name="&#xe7fe;" hidetitle="on" image="esame" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_BouquetMakerXtream-function_main name2="" name="&#xe7fe;" hidetitle="on" image="bmxtream" fcolor="16777215"   bcolor="47316"/>
+<Plugins_Extensions_MediaInfo-function_main name2="" name="&#xe820;" hidetitle="off"   fcolor="16777215"   bcolor="16733986"/>
+<menuplugins-BouquetMakerXtream name2="" name="&#xe7fe;" hidetitle="on" image="bmxtream" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_TelekomSport-function_main name2="" name="" hidetitle="on" image="magentaSport" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_ZDFMediathek-function_main name2="" name="" hidetitle="on" image="zdf_mt" fcolor="16777215"   bcolor="4013631"/>
+<Plugins_Extensions_JediEPGXtream-function_main name2="" name="&#xed79;" hidetitle="off"   fcolor="16777215"   bcolor="11514923"/>
+<Plugins_Extensions_MagentaMusik360-function_main name2="" name="&#xe7fe;" hidetitle="on" image="magnetaMusic" fcolor="16777215"   bcolor="3817023"/>
+<setup-Time-vv name2="" name="" hidetitle="off"   fcolor="11514923"   bcolor="2372432"/>
+<setup-Timeshift-vv name2="" name="&#xe8c9;" hidetitle="off"   image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-Usage-vv name2="" name="&#xed7a;" hidetitle="off"   image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-UserInterface-vv name2="" name="&#xe847;" hidetitle="off"   image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-VolumeAdjust-vv name2="" name="" hidetitle="off"   image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-Subtitle-vv name2="" name="&#xed6a;" hidetitle="off"   image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-Recording-vv name2="" name="&#xed7c;" hidetitle="off"   image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-Logs-vv name2="" name="" hidetitle="off" image="012" fcolor="15021412"   bcolor="6381921"/>
+<screens-LocaleSelection-vv-LocaleSelection-vv name2="" name="&#xed6b;" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-HardDisk-vv name2="" name="&#xecca;" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<screens-FactoryReset-vv-FactoryReset-vv name2="" name="&#xed3a;" hidetitle="off"  image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-EPG-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-Display-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-ChannelSelection-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-AutoLanguage-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<setup-Audio-vv name2="" name="" hidetitle="off" image="012" fcolor="16777215"   bcolor="6381921"/>
+<Plugins_Extensions_VisualWeather-function_main name2="" name="" hidetitle="off"   fcolor="10354688" tcolor="16733986" bcolor="12364452"/>
+<Plugins_Extensions_Bootlogo-function_main name2="" name="" hidetitle="off"   fcolor="11463168"   bcolor="23146"/>
+<Plugins_Extensions_freearhey-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="16727296"/>
+<Plugins_Extensions_FreeServer-function_main name2="" name="" hidetitle="off"   fcolor="16777215" tcolor="16775393" bcolor="11933983"/>
+<Plugins_Extensions_FritzCall-function_displayFBFStatus name2="" name="&#xe873;" hidetitle="off"   fcolor="11020347"   bcolor="2503224"/>
+<Plugins_Extensions_FritzCall-function_main name2="" name="" hidetitle="off"   fcolor="16743799"   bcolor="4477014"/>
+<Plugins_Extensions_fstabEditor-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="15021500"/>
+<Plugins_Extensions_FritzCall-function_displayPhonebook name2="" name="" hidetitle="off"   fcolor="9775272" tcolor="2503224" bcolor="11711680"/>
+<Plugins_Extensions_FritzCall-function_displayCalls name2="" name="&#xe980;" hidetitle="off"   fcolor="16728193" tcolor="328965" bcolor="13682123"/>
+<Plugins_Extensions_EasyMedia-function_notEasy name2="" name="&#xe9ae;" hidetitle="off"   fcolor="14652712" tcolor="6842498" bcolor="7784680"/>
+<Plugins_Extensions_IP_Checker-function_main name2="" name="&#xeb20;" hidetitle="off"   fcolor="16719188"   bcolor="16750991"/>
+<Plugins_Extensions_LCD4linux-function_main name2="" name="&#xe7fe;" hidetitle="on" image="lcd4linux" fcolor="47316"   bcolor="4934745"/>
+<Plugins_Extensions_LamedbMerger-function_main name2="" name="" hidetitle="off"   fcolor="15026520"   bcolor="16752256"/>
+<Plugins_Extensions_IPTVRemote-function_main name2="" name="&#xec9f;" hidetitle="off"   fcolor="16777215"   bcolor="3369246"/>
+<Plugins_Extensions_LetterBox-function_zoom_toggle name2="" name="&#xec9b;" hidetitle="off"   fcolor="16777215"   bcolor="13662233"/>
+<Plugins_Extensions_DLNABrowser-function_main name2="" name="&#xed87;" hidetitle="off"   fcolor="1793568" tcolor="1783328" bcolor="13351357"/>
+<Plugins_Extensions_NetSpeedTest-function_main name2="" name="&#xed69;" hidetitle="off"   fcolor="16777215"   bcolor="10908360"/>
+<Plugins_Extensions_VlcPlayer-function_main name2="" name="&#xed85;" hidetitle="off"   fcolor="16733986" tcolor="328965" bcolor="14799043"/>
+<Plugins_Extensions_MeteoViewer-function_main name2="" name="" hidetitle="off"   fcolor="16760335"   bcolor="3817023"/>
+<Plugins_Extensions_SDGRadio-function_main name2="" name="&#xed5a;" hidetitle="off"   fcolor="16777215"   bcolor="6111287"/>
+<Plugins_Extensions_skyrecorder-function_main name2="" name="" hidetitle="on" image="skyRecorder" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_SpinnerSelector-function_main name2="" name="&#xe838;" hidetitle="off"   fcolor="14952507"   bcolor="16760104"/>
+<Plugins_Extensions_SHOUTcast-function_main name2="" name="&#xe7fe;" hidetitle="on" image="shoutcast" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_SimpleUmount-function_main name2="" name="" hidetitle="off"   fcolor="1973860" tcolor="1973830" bcolor="15785773"/>
+<Plugins_Extensions_SRFMediathek-function_main name2="" name="&#xe7fe;" hidetitle="on" image="srf_mediathek" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_SeriesPlugin-function_setup name2="" name="&#xed6d;" hidetitle="off"   fcolor="16777215"   bcolor="2653096"/>
+<Plugins_Extensions_WorldCam-function_main name2="" name="&#xeade;" hidetitle="off"   fcolor="16777215"   bcolor="5460608"/>
+<Plugins_Extensions_GioppyGio-function_Main name2="" name="" hidetitle="off"   fcolor="1797408" tcolor="328965" bcolor="11974326"/>
+<Plugins_Extensions_EmailClient-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="5592703"/>
+<Plugins_Extensions_Schiffe-function_main name2="" name="&#xeb6c;" hidetitle="off"   fcolor="16777215"   bcolor="47316"/>
+<Plugins_Extensions_ZapStatistic-function_main name2="" name="&#xecc5;" hidetitle="off"   fcolor="16777215"   bcolor="16498733"/>
+<Plugins_Extensions_OpenATVreader-function_main name2="" name="" hidetitle="on" image="OATV" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_EPGExport-function_startEPGExport name2="" name="&#xe84d;" hidetitle="off"   fcolor="16777215"   bcolor="888478"/>
+<Plugins_Extensions_MovieBrowser-function_main name2="" name="&#xeadd;" hidetitle="off"   fcolor="16777215"   bcolor="16728193"/>
+<Plugins_Extensions_NovacamPro-cyfunction_main name2="" name="&#xe7fe;" hidetitle="on" image="NovaCpro" fcolor="16777215"   bcolor="3817023"/>
+<menuplugins-novacampro name2="" name="&#xe7fe;" hidetitle="on" image="NovaCpro" fcolor="16777215"   bcolor="3817023"/>
+<menuplugins-novatv name2="" name="&#xe7fe;" hidetitle="on" image="NovaTV" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_NovaTV-cyfunction_main name2="" name="&#xe7fe;" hidetitle="on" image="NovaTV" fcolor="16777215"   bcolor="3817023"/>
+<screens-PluginBrowser-vv-PluginBrowser-vv name2="" name="&#xec0c;" hidetitle="off" image="003" fcolor="16777215" tcolor="16777215" bcolor="11020347"/>
+<Plugins_Extensions_PlutoTV-function_Download_PlutoTV name2="" name="" hidetitle="off"   fcolor="11725810"   bcolor="6904723"/>
+<Plugins_Extensions_RadiologoATV_Stony272-function_main name2="" name="&#xea3b;" hidetitle="off" image="back08" fcolor="16777215"   bcolor="7951688"/>
+<Plugins_Extensions_VpnManager-function_main name2="" name="" hidetitle="on" image="openVPN" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_MadMax-function_main name2="" name="&#xed62;" hidetitle="off"   fcolor="16777215"   bcolor="4938087"/>
+<Plugins_Extensions_Enigmawelt-function_main name2="" name="" hidetitle="off" image="enigmaWelt" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_BirthdayReminder-function_settings name2="" name="&#xecc2;" hidetitle="off"   fcolor="11342935" tcolor="6432827" bcolor="11583173"/>
+<Plugins_Extensions_Filebrowser-function_start_from_pluginmenu name2="" name="&#xea7e;" hidetitle="off"   fcolor="16777215"   bcolor="2653045"/>
+<Plugins_AspectRatioSwitch-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="3621197"/>
+<Plugins_Extensions_Mediathekviewweb-function_main name2="" name="&#xed73;" hidetitle="off"   fcolor="16777215"   bcolor="7374933"/>
+<Plugins_IceTV-function_plugin_main name2="" name="&#xe7fe;" hidetitle="on" image="iceTV" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_RSSReader-function_main name2="" name="&#xed27;" hidetitle="off"   fcolor="16777215"   bcolor="11514923"/>
+<Plugins_Extensions_DreamPlex-function_main name2="" name="" hidetitle="off"   fcolor="16750848"   bcolor="7758421"/>
+<Plugins_Extensions_autoBLchanger-function_normalStart name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="39892"/>
+<Plugins_Extensions_PiconsMissing-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="4358035"/>
+<Plugins_Extensions_LCD4linux-function_screenswitch name2="" name="&#xeb8e;" hidetitle="off"   fcolor="16777215"   bcolor="31624"/>
+<Plugins_Extensions_ScreenGrabber-function_main name2="" name="&#xeaba;" hidetitle="off"   fcolor="16777215"   bcolor="6111287"/>
+<Plugins_Extensions_ShowClock-function_setup name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="15092249"/>
+<Plugins_Extensions_TVCharts-function_main name2="" name="&#xeacc;" hidetitle="off"   fcolor="16777215"   bcolor="9021483"/>
+<Plugins_Extensions_SystemTools-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="5592471"/>
+<Plugins_Extensions_WebcamViewer-function_startPictureviewer name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="16739904"/>
+<Plugins_Extensions_WebcamViewer-function_startWebcamviewer name2="" name="&#xec06;" hidetitle="off"   fcolor="16777215"   bcolor="38536"/>
+<Plugins_Extensions_Warnmeldungen-function_Main name2="" name="&#xe85d;" hidetitle="off"   fcolor="16739584"   bcolor="7901340"/>
+<menuplugins-permanent_clock name2="" name="" hidetitle="off"   fcolor="47316"   bcolor="3622735"/>
+<Plugins_Extensions_OFDb-function_main name2="" name="&#xe7fe;" hidetitle="off" image="ofdb" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_ZapHistoryBrowser-function_main name2="" name="" hidetitle="off" image="b00" fcolor="16777215"   bcolor="15277667"/>
+<Plugins_Extensions_StreamInterface-function_main name2="" name="" hidetitle="off"   fcolor="12250368"   bcolor="23146"/>
+<Plugins_CrossEPG-function_call_downloader name2="" name="&#xeca0;" hidetitle="off"   fcolor="16777215"   bcolor="10174312"/>
+<Plugins_Extensions_Aglare-function_main name2="" name="" hidetitle="off"   fcolor="16777215"   bcolor="9552128"/>
+<Plugins_Extensions_RaedQuickSignal-function_main name2="" name="&#xed78;" hidetitle="off"   fcolor="16777215"   bcolor="10829375"/>
+<screens-SkinSelection-vv-SkinSelection-vv name2="" name="&#xed5b;" hidetitle="off" image="012" fcolor="16777215"   bcolor="3817023"/>
+<Plugins_Extensions_mmPicons-function_main name2="" name="" hidetitle="off"   fcolor="16777215" tcolor="16777215" bcolor="11463168"/>
+<!-- add_icon -->
+    </items>
+</data>
